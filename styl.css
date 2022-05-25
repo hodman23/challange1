@@ -1,0 +1,61 @@
+header{
+	background-color: green;
+}
+header h1{
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.bidix {
+	background-color: lightblue;
+	
+	width: 500px;
+	height: 700px;
+	position: absolute;
+	top: 9.5%;
+}
+.center {
+	background-color: brown;
+	width: 600px;
+	height: 700px;
+	position: absolute;
+	top: 9.5%;
+	right: 26.9%;
+}
+.midig{
+background-color: tomato;
+width: 400px;
+height: 700px;
+position: absolute;
+right: 1%;
+top: 9.5%
+}
+.bidix p{
+	font-size: 20px;
+	padding: 20px;
+}
+.center vedio {
+	padding-left: 140px;
+	padding-top: 200px;
+
+}
+.midig img{
+	padding-top: 150px;
+	padding-left: 3%;
+	padding-right: 5px;
+}
+.hoose{
+	background-color: teal;
+	width: 1460px;
+	height: 50px;
+	position: absolute;
+	top: 95.6%;
+
+}
+.hoose footer{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	padding: 10px;
+}
